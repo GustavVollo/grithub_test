@@ -1,6 +1,6 @@
 ---
 title: 'Lab 3: Instructions'
-author: "Jeremy Morris"
+author: "Gustav Vollo"
 output: 
   html_document: 
     theme: cosmo
